@@ -2,8 +2,7 @@
 title: "Mañana.Studio - Agencia Digital"
 email: "2realbass@mañana.studio"
 description: >- # this means to ignore newlines until "baseurl:"
-  En Mañana Estudio combinamos la experiencia en el manejo y creatividad en las redes sociales con programas de
-análisis de datos personalizados para ayudar a las marcas a tomar decisiones innovadoras.
+  En Mañana Estudio combinamos la experiencia en el manejo y creatividad en las redes sociales con programas de análisis de datos personalizados para ayudar a las marcas a tomar decisiones innovadoras.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://robok3000.github.io/MStudio/" # the base hostname & protocol for your site, e.g. http://example.com
 
