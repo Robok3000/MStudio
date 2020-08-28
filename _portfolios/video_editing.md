@@ -1,7 +1,7 @@
 ---
 title: "Video Editing"
 sub_title: "professional video editing"
-post_image: "/assets/images/portfolio/3.jpg"
+post_image: "assets/images/portfolio/3.jpg"
 layout: service
 ---
 

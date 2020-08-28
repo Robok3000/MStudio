@@ -1,7 +1,7 @@
 ---
 title: "Web Design"
 sub_title: "w3 validate template"
-post_image: "/assets/images/portfolio/4.jpg"
+post_image: "assets/images/portfolio/4.jpg"
 layout: service
 ---
 

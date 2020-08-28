@@ -1,7 +1,7 @@
 ---
 title: "Web Development"
 sub_title: "Premium Website"
-post_image: "/assets/images/portfolio/5.jpg"
+post_image: "assets/images/portfolio/5.jpg"
 layout: service
 ---
 

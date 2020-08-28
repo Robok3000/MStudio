@@ -4,21 +4,20 @@
         <div class="row">
             <div class="col-lg-6 offset-lg-3 text-center pb-80">
                 <div class="section-title service-title">
-                    <span><img src="{{relative_url}}/assets/images/service-text.png" alt=""></span>
+                    <span><img src="assets/images/service-text.png" alt=""></span>
                     <p class="section-para"><span></span>About Us</p>
                     <h1>Most Creative Agency For Your Project</h1>
                 </div>
             </div>
         </div>
         <div class="row pb-30">
-           {% for service in site.services %}
+            {% for service in site.services %}
             <div class="col-lg-6 mb-4">
                 <div class="single-service-box">
                     <div class="single-service-icon-box">
-                        <p>{% if forloop.index < 10 %} 0{{forloop.index}} {% else %} {{forloop.index}} {% endif %}</p>
-                        {% if service.icon %}
-                          {{service.icon}}
-                        {% endif %}
+                        <p>{% if forloop.index
+                            < 10 %} 0{{forloop.index}} {% else %} {{forloop.index}} {% endif %}</p>
+                                {% if service.icon %} {{service.icon}} {% endif %}
                     </div>
                     <div class="service-box-content">
                         <h3>{{service.title}}</h3>

@@ -1,7 +1,7 @@
 ---
 title: "Graphic Design"
 sub_title: "Graphic Design"
-post_image: "/assets/images/portfolio/2.jpg"
+post_image: "assets/images/portfolio/2.jpg"
 layout: service
 ---
 

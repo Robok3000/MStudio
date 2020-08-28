@@ -1,7 +1,7 @@
 ---
 title: "Creative Works"
 sub_title: "Light Illustration"
-post_image: "/assets/images/portfolio/1.jpg"
+post_image: "assets/images/portfolio/1.jpg"
 layout: service
 ---
 
