@@ -1,6 +1,6 @@
 ---
-title: "UX/UI Strategy"
+title: "Mejoramiento de Performance"
 icon: "assets/images/service-icon/2.png"
 ---
 
-Pain can procure hi some great pleasutrivial example, which ever undertakes
+Utilizando la Inteligencia Artificial recopilamos información sobre el comportamiento de los consumidores y de los seguidores de tus redes sociales. Con esta información somos capaces de generar indicadores que ayuden a construir una adecuada estrategia de Marketing Digital y una correcta implementación de dicho plan.

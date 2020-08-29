@@ -1,6 +1,6 @@
 ---
-title: "Product Design"
+title: "Estrategia & Creatividad"
 icon: "assets/images/service-icon/1.png"
 ---
 
-It is pleasure, but because those who do not know how pursue pleasure ration
+Usamos nuestras mentes para crear la campaña más adecuada para tus requerimientos. Podemos crear estrategias de marca a largo plazo, estrategias de campaña o crear piezas específicas para requerimientos específicos, tales como concursos, lanzamientos, etc.
