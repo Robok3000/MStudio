@@ -1,7 +1,7 @@
 
   /*-----------------------------------------------------------------------------------
 
-    Template Name: livvic  
+    Template Name: livvic
     Template URI: https://webtend.biz/
     Description: personal Portfolio  HTML Template
     Author: WebTend
@@ -13,8 +13,8 @@
     CSS INDEX
     ===================
 
-    01. COMMON css 
-    02. HEADER css 
+    01. COMMON css
+    02. HEADER css
     03. HERO css
     04. SERVICE-CATEGORIES css
     05. ABOUT-US css
@@ -37,7 +37,7 @@
 
 -----------------------------------------------------------------------------------*/
 /*===========================
-    1. COMMON css 
+    1. COMMON css
 ===========================*/
 @import url('https://fonts.googleapis.com/css?family=Poppins:300,400,500,700,800&display=swap');
 
@@ -47,7 +47,7 @@ body {
     font-style: normal;
     color: #7f7f7f;
 }
- 
+
 * {
     margin: 0;
     padding: 0;
@@ -548,8 +548,8 @@ header {
 .slicknav_menu{
   display: none;
 }
-  
-  
+
+
 /* 02. submenu css */
 .main-menu ul li ul.submenu {
   position: absolute;
@@ -620,7 +620,7 @@ header {
     opacity: .7;
   }
   .hero-area-content {
-	padding-top: 330px;
+	padding-top: 200px;
 	padding-bottom: 250px;
 }
 
@@ -1049,7 +1049,7 @@ header {
     background: #1f2732;
     color: #fff;
   }
-  
+
 .portfolio-btn-area {
     padding-top: 35px;
   }
@@ -1647,7 +1647,7 @@ header {
   -o-transition: .3s ease-in-out ;
 }
 .single-blog-content:hover p.styled-para{
-  color: #f26c4f; 
+  color: #f26c4f;
 }
 .single-blog-content p:first-child i {
 	padding-right: 6px;
@@ -1688,7 +1688,7 @@ header {
 }
 .home-blog .single-blog-img img {
   height: 100%;
-} 
+}
 .single-blog-img:hover img {
   transform: scale(1.1);
 }
@@ -2098,10 +2098,10 @@ header {
   background: -webkit-linear-gradient(-45deg,  #1f2099 0%,#487bef 100%);
   background: linear-gradient(135deg,  #1f2099 0%,#487bef 100%);
   filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#1f2099', endColorstr='#487bef',GradientType=1 );
-  color: #fff;  
+  color: #fff;
 }
 .colered-box-text span:hover a {
-  color: #fff;  
+  color: #fff;
 }
 .colered-box-text span {
   width: 50%;
