@@ -32,4 +32,4 @@ No es lo mismo tener una comunidad de 100.000 seguidores obtenidos con concursos
 
 Así, nacerá un nuevo lazo de amistad entre marca/cliente y si no, pregúntenle a la gente de [Fintual](https://fintual.cl/) para que les expliquen cómo es que sus usuarixs están tan enamoradxs de la marca y por qué están creciendo como lo están haciendo.
 
-![fintual amor](https://imgur.com/Jz1bNq5)
+![fintual amor](https://imgur.com/Jz1bNq5.png)
