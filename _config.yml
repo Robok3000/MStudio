@@ -3,8 +3,8 @@ title: "Trinomio Digital  - Agencia de Marketing"
 email: "pedro@trinomiodigital.com"
 description: >- # this means to ignore newlines until "baseurl:"
   En Trinomio Digital combinamos la experiencia en el manejo y creatividad en las redes sociales con programas de análisis de datos personalizados para ayudar a las marcas a tomar decisiones innovadoras.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://trinomio.digital" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "/MStudio" # the subpath of your site, e.g. /blog
+url: "https://robok3000.github.io/MStudio" # the base hostname & protocol for your site, e.g. http://example.com
 
 #General Settings
 facebook_url: "https://www.facebook.com/trinomio.digital"
