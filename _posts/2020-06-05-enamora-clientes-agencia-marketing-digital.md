@@ -1,9 +1,9 @@
 ---
 layout: post
 title: "Por qué las agencias no están ni ahí con tu negocio"
-description: Quizás pueda sonar feo, pero a veces las agencias pierden su rumbo tratando de mostrarte números que algunas veces no sirve para el objetivo real que estás buscando.
+description: "Quizás pueda sonar feo, pero a veces las agencias pierden su rumbo tratando de mostrarte números que algunas veces no sirve para el objetivo real que estás buscando."
 date: 2020-06-05 09:16:35 +0600
-categories: [jekyll]
+categories: [Marketing Digital]
 post_image: "assets/images/blog/05.jpg"
 author: Pedro Torrealba Barra
 ---
